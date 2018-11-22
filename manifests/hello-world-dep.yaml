@@ -16,7 +16,7 @@ spec:
     spec:
       containers:
       - name: hello-world
-        image: gcr.io/rakl-test-01/go-hello-world:master-618a9fc 
+        image: gcr.io/rakl-test-01/go-hello-world:master-95ce36d
         ports:
         - containerPort: 8080
 
